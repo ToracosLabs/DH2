@@ -1,11 +1,5 @@
 export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
-	carleto:{
+	moosquito:{
 		tier: "Toracoslabs"
 	},
-	pitfazu:{
-		tier: "Toracoslabs"
-	},
-	carlis:{
-		tier: "Toracoslabs"
-	} 
 };

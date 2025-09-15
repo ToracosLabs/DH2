@@ -6415,7 +6415,7 @@ export const Formats: FormatList = [
 		mod: 'toracoslabs',
 		ruleset: ['Standard', 'Data Mod'],
 		banlist: ['All Pokemon', 'King\'s Rock', 'Baton Pass'],
-		unbanlist: ['Bulbasaur'],
+		unbanlist: ['Moosquito'],
 	},
 
 	{
