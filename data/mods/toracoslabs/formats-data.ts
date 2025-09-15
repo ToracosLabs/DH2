@@ -7,6 +7,5 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	carlis:{
 		tier: "Toracoslabs"
-	}  
-
+	} 
 };
